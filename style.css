@@ -8,7 +8,7 @@
   --rule:     #cfc8b8;
   --redink:   #f6e1d4;
   --redink-2: #efc8b5;
-  --redink-3: rgba(246, 225, 212, 0.65);
+  --redink-3: rgba(246, 225, 212, 0.88);
 }
 * { box-sizing: border-box; }
 html, body { margin: 0; padding: 0; }
