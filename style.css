@@ -37,6 +37,9 @@ body.is-loaded {
 .desat {
   filter: saturate(0.74) contrast(0.96) brightness(0.98) sepia(0.06);
 }
+.bw {
+  filter: grayscale(1) contrast(0.96) brightness(0.98);
+}
 
 /* hide mobile top nav on desktop */
 .mobile-nav { display: none; }
